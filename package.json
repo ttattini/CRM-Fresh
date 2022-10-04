@@ -38,7 +38,7 @@
             }
           }
         }
-      ]
+      ],
       "packagerConfig": {
         "icon": "build/icon"
       },
