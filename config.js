@@ -7,7 +7,7 @@ const config = {
     'websiteUrl' : 'https://crm.ellasbubbles.com/admin/authentication',
 
     //Application Name
-    'appName' : 'Ella-CRM',
+    'appName' : 'Ella CRM',
 
     //Application window width and height
     'width' : 1280,
