@@ -28,6 +28,17 @@
   },
   "config": {
     "forge": {
+       "publishers": [
+        {
+          "name": "@electron-forge/publisher-github",
+          "config": {
+            "repository": {
+              "owner": "erikhofer",
+              "name": "electron-publish-example"
+            }
+          }
+        }
+      ]
       "packagerConfig": {
         "icon": "build/icon"
       },
